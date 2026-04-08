@@ -70,19 +70,19 @@ export const About = () => {
 
         {/* Story Section */}
         <div className="max-w-4xl mx-auto">
-          <div className="bg-gray-50 rounded-2xl p-8 md:p-12">
+          <div className="bg-gradient-to-br from-gray-50 to-orange-50/30 rounded-3xl p-8 md:p-12 shadow-xl border border-gray-100">
             <h3 className="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
               Our Story
             </h3>
             <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
               <p>
-                Located in the heart of HSR Layout, EUROFIT GYM has been transforming lives for over 15 years. What started as a vision to create a world-class fitness facility has grown into one of Bengaluru's most trusted and celebrated gyms.
+                Located in the heart of HSR Layout, <strong className="text-orange-600">EUROFIT GYM</strong> has been transforming lives for over 15 years. What started as a vision to create a world-class fitness facility has grown into one of Bengaluru's most trusted and celebrated gyms with over 5,000 active members.
               </p>
               <p>
-                Our state-of-the-art facility features cutting-edge equipment, spacious workout areas, and a team of certified trainers who are passionate about your success. Whether you're a beginner taking your first steps toward fitness or an athlete pushing your limits, EUROFIT GYM provides the perfect environment.
+                Our state-of-the-art facility features cutting-edge equipment from leading international brands, spacious workout areas designed by fitness architects, and a team of 50+ certified trainers who are passionate about your success. Whether you're a beginner taking your first steps toward fitness or an elite athlete pushing your limits, EUROFIT GYM provides the perfect environment.
               </p>
               <p>
-                With a 4.7-star rating and over 1200 positive reviews, our members consistently praise our welcoming atmosphere, professional guidance, and results-driven approach. We're more than just a gym – we're your partner in achieving the healthiest, strongest version of yourself.
+                With a <strong className="text-orange-600">4.7-star rating</strong> and over 1200 positive reviews on Google, our members consistently praise our welcoming atmosphere, professional guidance, and results-driven approach. We're more than just a gym – we're your partner in achieving the healthiest, strongest, and most confident version of yourself. Join us and experience the EUROFIT difference!
               </p>
             </div>
           </div>

@@ -39,11 +39,11 @@ export const Hero = () => {
           {/* Main Headline */}
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight animate-fade-in-up animation-delay-100">
             Transform Your Body,
-            <span className="block text-orange-500 mt-2">Transform Your Life</span>
+            <span className="block bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 bg-clip-text text-transparent mt-2">Transform Your Life</span>
           </h1>
 
-          <p className="text-xl md:text-2xl text-gray-200 mb-8 animate-fade-in-up animation-delay-200">
-            Join Bengaluru's premier fitness destination. State-of-the-art equipment, expert trainers, and a community that motivates you every day.
+          <p className="text-xl md:text-2xl text-gray-200 mb-8 animate-fade-in-up animation-delay-200 max-w-2xl">
+            Join Bengaluru's premier fitness destination with 15+ years of excellence. State-of-the-art equipment, certified expert trainers, and a community of 5000+ members that motivates you every day.
           </p>
 
           {/* Location */}
