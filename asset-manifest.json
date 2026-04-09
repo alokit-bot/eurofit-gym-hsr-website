@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eurofit-gym-hsr-website/static/css/main.0ef07c85.css",
+    "main.js": "/eurofit-gym-hsr-website/static/js/main.7b389388.js",
+    "index.html": "/eurofit-gym-hsr-website/index.html",
+    "main.0ef07c85.css.map": "/eurofit-gym-hsr-website/static/css/main.0ef07c85.css.map",
+    "main.7b389388.js.map": "/eurofit-gym-hsr-website/static/js/main.7b389388.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef07c85.css",
+    "static/js/main.7b389388.js"
+  ]
+}
